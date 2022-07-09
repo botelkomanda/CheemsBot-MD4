@@ -1,6 +1,6 @@
 
 
-<h1 align="center">𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻 𝗩4ꫂ<br></h1>
+<h1 align="center">𝑬𝑳𝑲𝑶𝑴𝑨𝑵𝑫𝑨 𝑩𝑶𝑻 𝗩4ꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/865d80256cc0d533783e4.jpg" alt="animated" width="540" height="280" />
 </p>
@@ -33,7 +33,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/201098906252"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/201271438989"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
