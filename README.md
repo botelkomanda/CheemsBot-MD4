@@ -2,7 +2,7 @@
 
 <h1 align="center">𝑬𝑳𝑲𝑶𝑴𝑨𝑵𝑫𝑨 𝑩𝑶𝑻 𝗩4ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/865d80256cc0d533783e4.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/15488f254aac53ac1cedc.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
