@@ -1,8 +1,8 @@
 {
-  "name": "ElgazarBot",
+  "name": "ELKOMANDA Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DGXeon/CheemsBot-MD4",
-  "logo": "https://telegra.ph/file/865d80256cc0d533783e4.jpg",
+  "logo": "https://telegra.ph/file/15488f254aac53ac1cedc.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
